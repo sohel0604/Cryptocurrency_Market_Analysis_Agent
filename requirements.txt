@@ -1,0 +1,8 @@
+requests
+pandas
+schedule
+langchain
+huggingface_hub
+transformers
+torch
+streamlit
